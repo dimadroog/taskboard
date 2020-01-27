@@ -1,0 +1,8 @@
+{
+    "require": {
+        "catfan/medoo": "^1.7",
+        "jasongrimes/paginator": "~1.0",
+        "stefangabos/zebra_pagination": "dev-master",
+        "rakit/validation": "^1.2"
+    }
+}
